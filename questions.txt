@@ -1,0 +1,35 @@
+1.Main method in Java:
+    It is used to execute the program.
+Syntax:public static void main (string[ ] args)
+
+2.loop-for loop,while loop,do while loop,for each  loop
+Jump statement-break and continue
+If and switch case statement.
+
+3.Continue:stop the current iteration and continue with next iteration.
+Break:stop the iteration and come out of the loop.
+
+4.Array:
+ Array is a container to store multiple data of same data type.Array is a collection of similar data type.
+Syntax:int[ ] array={1,2,3,4};
+
+5.Enter 5 array inputs, but declare 4 or 6 array values. It is an error-Array index out of bounds exception.
+6. Objects syntax:
+Classname objectname=new classname();
+
+7.variable:To store a value of defined data type.
+It is a container.
+int a=10; 
+int b=15;
+
+8.string is a collection of character.
+it is a non -primitive data type.
+
+9.Two ways :
+String name="Sowmiya";
+String name=new("Sowmiya");
+
+10.equals();
+It compares two string same or not.
+ ==Compare the index values in string and array.
+
