@@ -12,7 +12,7 @@
       
 3.Can we overload main method in Java
 
-ANS   :   We can overload the main method in java but JVM can calls only the original main method. It cannot calls the overloadded main method in java.
+   We can overload the main method in java but JVM can calls only the original main method. It cannot calls the overloadded main method in java.
 
 
 4.What are the access modifiers available in java
@@ -28,7 +28,7 @@ ANS   :   We can overload the main method in java but JVM can calls only the ori
 
 6.Why String is immutable in java?
 
-          The String is immutable in Java because of the security, synchronization and concurrency, caching, and class loading. The reason of making string final is to destroy the immutability and to not allow others to extend it.
+          The String is immutable in Java because of the security, synchronization and concurrency, caching, and class loading. The reason of making string final is to destroy           the immutability and to not allow others to extend it.
     The String objects are cached in the String pool, and it makes the String immutable.
           
           
