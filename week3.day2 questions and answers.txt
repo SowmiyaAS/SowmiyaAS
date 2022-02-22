@@ -1,5 +1,0 @@
-1.what is inheritance?
-   
-2.Types of inheritance?
-3.what is method overloading?
-4.what is method overriding?
